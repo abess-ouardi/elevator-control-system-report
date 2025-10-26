@@ -10,4 +10,4 @@ It integrates Sequential Function Chart (SFC) and Structured Text (ST) programmi
 - Human–Machine Interface (HMI) visualization
 - System simulation and validation
 
-📄 The complete report is available in [`docs/report.pdf`](./docs/report.pdf).
+📄 The complete report is available in [`Elevator_managment_project.pdf`](./Elevator_managment_project.pdf).
